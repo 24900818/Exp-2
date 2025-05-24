@@ -3,7 +3,7 @@
 # REGISTARTION  NUMBER : 212224230185
 
 # AIM:
-To study the problem statement ,SRS,Document and draw all the UML diagrams of ATM SYSTEM
+To study the problem statement ,SRS,Document and draw all the UML diagrams of LIBRARY MANAGEMENT SYSTEM
 
 # LIST OF DIAGRAMS :
 
